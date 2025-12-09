@@ -5,30 +5,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetkumar2918&label=Profile%20views&color=0e75b6&style=flat" alt="navneetkumar2918" /> </p>
 
-- ### 🔍 About Me
+ ### 🔍 About Me
 
 - 👩‍🎓 Computer Science Engineering Student @ NIT Silchar (2022–2026) 
 - 🧠 Exploring: Computer Vision, Machine Learning, and DSA     
-- 🎯 Goal: "Seeking a tech role blending Web Development and ML/AI."
- 🔭 I’m currently working on [Breast Cancer Classification using Machine Learning](https://github.com/Navneetkumar2918)
- 🌱 I’m currently learning **Machine Learning ,React.js ,Node.js ,Django.**
- 👨‍💻 All of my projects are available at [https://github.com/Navneetkumar2918](https://github.com/Navneetkumar2918)
- 💬 Ask me about **anything related to my projects.**
- 📫 How to reach me **navneetkumar18112002@gmail.com**
- ⚡ Fun fact **I’m still learning to balance my code and my life—one compiles perfectly, the other still throws random runtime errors.**
+- 🎯 Goal: "Seeking a tech role blending Web Development and ML/AI"
+- 🔭 I’m currently working on [Breast Cancer Classification using Machine Learning](https://github.com/Navneetkumar2918)
+- 🌱 I’m currently learning **Machine Learning ,React.js ,Node.js ,Django.**
+- 👨‍💻 All of my projects are available at [https://github.com/Navneetkumar2918](https://github.com/Navneetkumar2918)
+- 💬 Ask me about **anything related to my projects.**
+- 📫 How to reach me **navneetkumar18112002@gmail.com**
+- ⚡ Fun fact **I’m still learning to balance my code and my life—one compiles perfectly, the other still throws random runtime errors.**
 
 ## 🌐 Let's Connect :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneet-kumar-764aa92a8) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/navneet_kumar18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navneetkumar18112002@gmail.com) 
 
 ### 🛠️ 💻Tech Stack
 
-**Languages & Scripting:** Python, C, C++, JavaScript, SQL  
-**Frontend:** HTML, CSS, JS, Bootstrap.  
-**Web Dev:** Node.js, Express.js, MongoDB, React (Basics), REST APIs  
-**CV/ML:** OpenCV, YOLOv8, NumPy, Pandas  
-**Tools:** Git, GitHub 
-**Platforms:** Windows  
-**Soft Skills:** Leadership, Critical Thinking, Time Management, Public Speaking
+- **Languages & Scripting:** Python, C, C++, JavaScript, SQL  
+- **Frontend:** HTML, CSS, JS, Bootstrap.  
+- **Web Dev:** Node.js, Express.js, MongoDB, React (Basics), REST APIs  
+- **CV/ML:** OpenCV, YOLOv8, NumPy, Pandas  
+- **Tools:** Git, GitHub 
+- **Platforms:** Windows  
+- **Soft Skills:** Leadership, Critical Thinking, Time Management, Public Speaking
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
