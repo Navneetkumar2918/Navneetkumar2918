@@ -30,19 +30,7 @@
 
 
 # 📊 GitHub Stats:
-<p>
-  <img align="left" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Navneetkumar2918&layout=compact&theme=ambient_gradient&show_icons=true" 
-       alt="Navneetkumar2918" />
-</p>
 
-
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Navneetkumar2918&show_icons=true&locale=en&theme=ambient_gradient&count_private=true" 
-       alt="Navneetkumar2918" />
-</p>
 
 
 <p>
@@ -54,9 +42,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Navneetkumar2918 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
