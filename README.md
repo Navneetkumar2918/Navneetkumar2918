@@ -7,9 +7,9 @@
 
  ### 🔍 About Me
 
-- 👩‍🎓 Computer Science Engineering Student @ NIT Silchar (2022–2026) 
-- 🧠 Exploring: Computer Vision, Machine Learning, and DSA     
-- 🎯 Goal: "Seeking a tech role blending Web Development and ML/AI"
+- 👩‍🎓 **Computer Science Engineering Student @ NIT Silchar (2022–2026)**
+- 🧠 Exploring: **Computer Vision, Machine Learning, and DSA**     
+- 🎯 Goal: **Seeking a tech role blending Web Development and ML/AI**
 - 🔭 I’m currently working on [Breast Cancer Classification using Machine Learning](https://github.com/Navneetkumar2918)
 - 🌱 I’m currently learning **Machine Learning ,React.js ,Node.js ,Django.**
 - 👨‍💻 All of my projects are available at [https://github.com/Navneetkumar2918](https://github.com/Navneetkumar2918)
